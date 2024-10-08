@@ -1,3 +1,6 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# [Teguh Prasetyo - Resume Template]
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+Project ini adalah project pembuatan personal profile yang berdasar pada template bootstrap StartBootstrap bernama resume.
+
+# [Credit]
+[Resume](https://startbootstrap.com/template-overviews/resume/) created by [Start Bootstrap](http://startbootstrap.com/). 
